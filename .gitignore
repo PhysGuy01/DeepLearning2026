@@ -1,0 +1,3 @@
+# ignore Python virtual environments
+Appunti/venv/
+Lab/lab-venv/
