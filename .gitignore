@@ -1,4 +1,3 @@
 # ignore Python virtual environments
-Lab/.lab-venv/
-Appunti/venv/
+Lab/.venv/
 .DS_Store
