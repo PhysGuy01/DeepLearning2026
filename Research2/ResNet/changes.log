@@ -1,0 +1,5 @@
+weight decay:   1e-3  -> 1e-4 -> 1e-3 -> 1e-3
+dropout:        0.2   -> 0.25 -> //   -> 0.2
+rotation range: 20    -> 25   -> //   -> 20
+warmup:         15    -> 25   -> //   -> 20
+patience sched.:5     -> 8    -> //   -> 5
