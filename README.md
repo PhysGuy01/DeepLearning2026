@@ -1,20 +1,22 @@
-# Appunti di Deep Learning con Applicazioni
-Questa è una repository dei miei appunti del corso di Deep Learning con Applicazioni in UNIMI.
+# Notes of Deep Learning
+Repository of my notes for the course Deep Learning with Applications in UNIMI.
 
-Contiene le directories:
+Contains the directories:
 - [Appunti](#appunti)
 - [Lab](#lab)
 - [Lectures](#lectures)
 - [Research](#research)
 
 ### Appunti
-Appunti in notebook della parte di teoria presentata in classe.
+Personal notes of the lectures.
 
 ### Lab 
-Appunti ed esercizi e mie soluzioni della parte pratica. 
+Notes and personal solution to exercises in class. 
 
 ### Lectures
-PDFs delle lezioni 
+Lectures' PDFs.
 
 ### Research
-Three models implementation for fundus camera image classification of retinal diseases.
+Implementation of three models for fundus camera image classification of retinal diseases. Along with the powerpoint presentation.
+
+![Models performance](./Research2/models_comparison.png)
